@@ -1,0 +1,23 @@
+.imagem {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+
+
+}
+
+.imagem img {
+    width: 1050px;
+    height: auto;
+    display: block;
+    
+}
+
+.imagem img:hover{
+    filter: sepia(100%);
+}
+
+.imagem img:active{
+    transform: translate(40px, 40px);
+
+}
