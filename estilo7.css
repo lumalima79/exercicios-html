@@ -1,0 +1,22 @@
+.lista li:nth-child(odd) {
+    background-color: #c7b048;
+}
+
+.lista li:nth-child(even): :marker {
+    background-color: #2c291b;
+    color: white;
+}
+
+.lista {
+    list-style:circle;
+    font-size: 30px;
+    color:indigo;
+    background-color:beige;
+    Width: 300px;
+    margin: 250px auto 0 auto;
+}
+
+.lista li:hover{
+    font-weight: bold;
+    color:pink;
+}
