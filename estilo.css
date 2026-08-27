@@ -1,0 +1,12 @@
+input[type="text"] {
+    width: 40%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.problema {
+    background-color: rgb(226, 65, 164);
+    color: rgb(24, 21, 21);
+    padding: 5px;
+    margin: 5px;
+}
